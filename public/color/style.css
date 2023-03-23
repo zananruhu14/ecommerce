@@ -1,0 +1,141 @@
+#ph1 {
+    color: white;
+    background-color: #ff0000;
+}
+#ph2 {
+    color: white;
+    background-color: #ff5a5a;
+}
+#ph3 {
+    color: white;
+    background-color: #ffa500;
+}
+#ph4 {
+    color: white;
+    background-color: #ffff00;
+}
+#ph5 {
+    color: white;
+    background-color: #d4e939;
+}
+#ph6 {
+    color: white;
+    background-color: #90ff77;
+}
+#ph7 {
+    color: white;
+    background-color: #00f000;
+}
+#ph8 {
+    color: white;
+    background-color: #24a31b;
+}
+#ph9 {
+    color: white;
+    background-color: #24771a;
+}
+#ph10 {
+    color: white;
+    background-color: #8b00ff;
+}
+#ph11 {
+    color: white;
+    background-color: #9932cc;
+}
+#ph12 {
+    color: white;
+    background-color: #000000;
+}
+#ph13 {
+    color: white;
+    background-color: #808080;
+}
+#ph14 {
+    color: white;
+    background-color: #ffffff;
+}
+
+@media print {
+    #ph1 {
+        color: white;
+        background-color: #ff0000;
+    }
+}
+@media print {
+    #ph2 {
+        color: white;
+        background-color: #ff5a5a;
+    }
+}
+@media print {
+    #ph3 {
+        color: white;
+        background-color: #ffa500;
+    }
+}
+@media print {
+    #ph4 {
+        color: white;
+        background-color: #ffff00;
+    }
+}
+@media print {
+    #ph5 {
+        color: white;
+        background-color: #d4e939;
+    }
+}
+@media print {
+    #ph6 {
+        color: white;
+        background-color: #90ff77;
+    }
+}
+@media print {
+    #ph7 {
+        color: white;
+        background-color: #00f000;
+    }
+}
+@media print {
+    #ph8 {
+        color: white;
+        background-color: #24a31b;
+    }
+}
+@media print {
+    #ph9 {
+        color: white;
+        background-color: #24771a;
+    }
+}
+@media print {
+    #ph10 {
+        color: white;
+        background-color: #8b00ff;
+    }
+}
+@media print {
+    #ph11 {
+        color: white;
+        background-color: #9932cc;
+    }
+}
+@media print {
+    #ph12 {
+        color: white;
+        background-color: #000000;
+    }
+}
+@media print {
+    #ph13 {
+        color: white;
+        background-color: #808080;
+    }
+}
+@media print {
+    #ph14 {
+        color: white;
+        background-color: #ffffff;
+    }
+}
