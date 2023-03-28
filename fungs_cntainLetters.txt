@@ -1,0 +1,16 @@
+function containLetters(string $firstWord, string $secondWord): bool {
+    // Ubah huruf pada kata kedua menjadi lowercase
+    $lowercaseSecondWord = strtolower($secondWord);
+    
+    // Iterasi setiap huruf pada kata pertama
+    for ($i = 0; $i < strlen($firstWord); $i++) {
+        $letter = $firstWord[$i];
+        
+        // Jika huruf tidak ditemukan pada kata kedua, return false
+        if (strpos($lowercaseSecondWord, strtolower($letter)) === false) {
+            return false;
+        }
+    }
+    
+    
+}
